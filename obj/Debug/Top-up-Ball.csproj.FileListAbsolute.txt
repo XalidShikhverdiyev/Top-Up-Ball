@@ -1,0 +1,10 @@
+C:\Users\xalid\source\repos\Top-up-Ball\Top-up-Ball\obj\Debug\Top-up-Ball.csprojAssemblyReference.cache
+C:\Users\xalid\source\repos\Top-up-Ball\Top-up-Ball\obj\Debug\Top_up_Ball.Form1.resources
+C:\Users\xalid\source\repos\Top-up-Ball\Top-up-Ball\obj\Debug\Top_up_Ball.Properties.Resources.resources
+C:\Users\xalid\source\repos\Top-up-Ball\Top-up-Ball\obj\Debug\Top-up-Ball.csproj.GenerateResource.cache
+C:\Users\xalid\source\repos\Top-up-Ball\Top-up-Ball\obj\Debug\Top-up-Ball.csproj.CoreCompileInputs.cache
+C:\Users\xalid\source\repos\Top-up-Ball\Top-up-Ball\bin\Debug\Top-up-Ball.exe.config
+C:\Users\xalid\source\repos\Top-up-Ball\Top-up-Ball\bin\Debug\Top-up-Ball.exe
+C:\Users\xalid\source\repos\Top-up-Ball\Top-up-Ball\bin\Debug\Top-up-Ball.pdb
+C:\Users\xalid\source\repos\Top-up-Ball\Top-up-Ball\obj\Debug\Top-up-Ball.exe
+C:\Users\xalid\source\repos\Top-up-Ball\Top-up-Ball\obj\Debug\Top-up-Ball.pdb
